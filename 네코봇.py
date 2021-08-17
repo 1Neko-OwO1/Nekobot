@@ -1,7 +1,7 @@
 import discord, datetime, random, asyncio
 
 from discord.activity import Game
-token = "ODQ5MTQ0OTE1NDIyNDc4MzQ2.YLW51A.5C6x0Htba8KrCkUotwGuM3N0O1g"
+token = ""
 intents = discord.Intents.all()
 client = discord.Client(intents=intents)
 
